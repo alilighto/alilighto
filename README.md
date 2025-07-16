@@ -116,7 +116,7 @@
   style="display: inline; width: 320px;"
 />
 <img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=alilighto&theme=github_dark&utcOffset=7"
+  src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=alilighto&theme=github_dark&utcOffset=1"
   style="display: inline; width: 320px;"
 />
 <br />
