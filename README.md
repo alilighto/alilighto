@@ -1,6 +1,5 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=170&section=header&text=Hi+there,+Im+Mohammed+Ouchkhi!&fontSize=50&fontColor=FFFFFF" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=170&section=header&text=Hi+there,+Im+Mohammed+Ouchkhi!&fontSize=30&fontColor=FFFFFF" width="100%" />
 <img src="https://komarev.com/ghpvc/?username=alilighto" alt="Profile view" />
-### Hi there, I'm Tran Nhat Thanh (aka dajneem23) 👋
 
 #### 📕 About me
 
