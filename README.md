@@ -1,12 +1,12 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=170&section=header&text=Hi+there,+Im+Mohammed+Ouchkhi!&fontSize=40&fontColor=FFFFFF" width="100%" />
 <img src="https://komarev.com/ghpvc/?username=alilighto" alt="Profile view" />
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=welcome+;Im+a+zone01edu+student;Always+learning+something+new;Learning+through+peer-to-peer+education" alt="Typing SVG" /></a>
 #### 📕 About me
 
 - 😅 I'm a developer, and a contributor!
 - 🇲🇦 I'm currently living in oujda City, Morocco.
 - 🎓 I'm currently a student at zone01oujda.
-- 📚 I'm currently learning through peer-to-peer education—where students learn with and from each other.
+- 📚 I'm currently learning through peer-to-peer education, where students learn with and from each other.
 - 🔭 I’m currently working on zone01oujda programe bulding projects with GOLANG, JS, RUST and much more!
 - 👯 I’m looking to collaborate with other developers building projects for fun and learning!
 - 💬 Ask me anything! If I didn’t get it right the first time, I learn fast—you’ll have your answer the second time! 😂
