@@ -83,12 +83,12 @@
 ![Statistics](https://img.shields.io/badge/Statistics-Data_Analysis-lightgrey?style=for-the-badge-slim)
 
 ---
-//#### 🌟 Topics
+<!--#### 🌟 Topics
 <img src="./metrics.plugin.topics.icons.svg" />
 
-<img src="./metrics.plugin.stars.svg" />//
+<img src="./metrics.plugin.stars.svg" />//-->
 
-#### 👷 Check out what I'm currently working on
+#### 👷 Check out what I'm currently working on 
 
 
 - [dajneem23/DefiHackLabs](https://github.com/dajneem23/DefiHackLabs) (1 day ago)
