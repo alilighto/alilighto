@@ -23,24 +23,13 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge-slim&logo=typescript&logoColor=fff)
 ![Nextjs](https://img.shields.io/badge/Next.js-000000?style=for-the-badge-slim&logo=next.js&logoColor=fff)
 ![React](https://img.shields.io/badge/-React.js-45b8d8?style=for-the-badge-slim&logo=react&logoColor=white)
-![Vue](https://img.shields.io/badge/-Vue.js-4fc08d?style=for-the-badge-slim&logo=vuedotjs&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-e535ab?style=for-the-badge-slim&logo=graphql&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge-slim&logo=express&logoColor=fff)
 ![Node.JS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge-slim&logo=node.js&logoColor=fff)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge-slim&logo=html5&logoColor=fff)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge-slim&logo=css3&logoColor=fff)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge-slim&logo=docker&logoColor=fff)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge-slim&logo=dotnet&logoColor=fff)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge-slim&logo=django&logoColor=fff)
-![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge-slim&logo=electron&logoColor=fff)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge-slim&logo=laravel&logoColor=fff)
-![Rails](https://img.shields.io/badge/Rails-CC0000?style=for-the-badge-slim&logo=rubyonrails&logoColor=fff)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge-slim&logo=c&logoColor=fff)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge-slim&logo=c%2B%2B&logoColor=fff)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge-slim&logo=c-sharp&logoColor=fff)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge-slim&logo=go&logoColor=fff)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge-slim&logo=java&logoColor=fff)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge-slim&logo=php&logoColor=fff)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge-slim&logo=python&logoColor=fff)
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge-slim&logo=ruby&logoColor=fff)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge-slim&logo=rust&logoColor=fff)
@@ -54,7 +43,6 @@
 
 ![Macos](https://shields.io/badge/MacOS--9cf?logo=Apple&style=social)
 ![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge-slim&logo=linux&logoColor=fff)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge-slim&logo=amazon%20aws&logoColor=fff)
 
 ---
 
@@ -80,6 +68,23 @@
 ![TCP/IP](https://img.shields.io/badge/TCP/IP-Networking-informational?style=for-the-badge-slim)
 ![System Admin](https://img.shields.io/badge/System_Admin-Unix/bash-important?style=for-the-badge-slim)
 ![Statistics](https://img.shields.io/badge/Statistics-Data_Analysis-lightgrey?style=for-the-badge-slim)
+
+---
+
+🔥 **intrested to learn:**
+
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge-slim&logo=java&logoColor=fff)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge-slim&logo=php&logoColor=fff)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge-slim&logo=amazon%20aws&logoColor=fff)
+![Vue](https://img.shields.io/badge/-Vue.js-4fc08d?style=for-the-badge-slim&logo=vuedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge-slim&logo=express&logoColor=fff)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge-slim&logo=dotnet&logoColor=fff)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge-slim&logo=django&logoColor=fff)
+![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge-slim&logo=electron&logoColor=fff)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge-slim&logo=laravel&logoColor=fff)
+![Rails](https://img.shields.io/badge/Rails-CC0000?style=for-the-badge-slim&logo=rubyonrails&logoColor=fff)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge-slim&logo=c%2B%2B&logoColor=fff)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge-slim&logo=c-sharp&logoColor=fff)
 
 ---
 <!--#### 🌟 Topics
