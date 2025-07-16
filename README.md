@@ -1,18 +1,16 @@
 ### Hi there, I'm Tran Nhat Thanh (aka dajneem23) 👋
 
-<img src="https://komarev.com/ghpvc/?username=dajneem23" alt="Profile view" />
+<img src="https://komarev.com/ghpvc/?username=alilighto" alt="Profile view" />
 
 #### 📕 About me
 
-- 😅 I'm a developer, blogger, and open-source maintainer & contributor!
-- 💀 My Vietnamese name is Tran Nhat Thanh, but you can call me Thanh Tran.
-- 🇻🇳 I'm currently living in Ho Chi Minh City, Vietnam.
-- 🎓 I'm a student at Ho Chi Minh City University of Technology and Education.
-- 📚 I'm majoring in Information Technology.
-- 🏢 I'm currently working as a Full-stack Developer.
-- 🔭 I’m currently working on personal projects!
-- 👯 I’m looking to collaborate with other developers building open-source projects for fun and learning!
-- 💬 Ask me about everything, however, I'm not sure I will have the answers you need! 😂
+- 😅 I'm a developer, and a contributor!
+- 🇲🇦 I'm currently living in oujda City, Morocco.
+- 🎓 I'm currently a student at zone01oujda.
+- 📚 I'm currently learning through peer-to-peer education—where students learn with and from each other.
+- 🔭 I’m currently working on zone01oujda programe bulding projects with GOLANG, JS, RUST and much more!
+- 👯 I’m looking to collaborate with other developers building projects for fun and learning!
+- 💬 Ask me anything! If I didn’t get it right the first time, I learn fast—you’ll have your answer the second time! 😂
 
 ---
 
