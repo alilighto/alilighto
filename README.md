@@ -11,7 +11,7 @@
 - 🇲🇦 I'm currently living in oujda City, Morocco.
 - 🎓 I'm currently a student at zone01oujda.
 - 📚 I'm currently learning through peer-to-peer education, where students learn with and from each other.
-- 🔭 I’m currently working on zone01oujda programe bulding projects with GOLANG, JS, RUST and much more!
+- 🔭 I’m currently working on zone01oujda programe bulding projects with ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge-slim&logo=go&logoColor=fff), ![JavaScript](https://img.shields.io/badge/-JavaScript-F7B93E?style=for-the-badge-slim&logo=javascript&logoColor=fff), ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge-slim&logo=rust&logoColor=fff) and much more!
 - 👯 I’m looking to collaborate with other developers building projects for fun and learning!
 - 💬 Ask me anything! If I didn’t get it right the first time, I learn fast—you’ll have your answer the second time! 😂
 
@@ -66,6 +66,7 @@
 ---
 
 🛠 **General technology knowledge and skills:**
+
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge-slim&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge-slim&logo=docker&logoColor=fff)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-533B78?style=for-the-badge-slim&logo=bootstrap&logoColor=white)
