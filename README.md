@@ -76,7 +76,6 @@
 ![AI](https://img.shields.io/badge/AI/ML-Learning-blueviolet?style=for-the-badge-slim)
 ![Backend](https://img.shields.io/badge/Back--end-Node/Express-brightgreen?style=for-the-badge-slim)
 ![Frontend](https://img.shields.io/badge/Front--end-React/Vue/HTML/CSS-blue?style=for-the-badge-slim)
-![Mobile](https://img.shields.io/badge/Mobile-Dev-in_progress-orange?style=for-the-badge-slim)
 ![GameDev](https://img.shields.io/badge/Game%20Dev-Rust/JS-informational?style=for-the-badge-slim)
 ![TCP/IP](https://img.shields.io/badge/TCP/IP-Networking-informational?style=for-the-badge-slim)
 ![System Admin](https://img.shields.io/badge/System_Admin-Unix/bash-important?style=for-the-badge-slim)
