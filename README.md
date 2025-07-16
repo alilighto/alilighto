@@ -1,5 +1,7 @@
 ### Hi there, I'm Tran Nhat Thanh (aka dajneem23) 👋
+<div align=center>
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=170&section=header&text=Welcome+JunKang's+space!&fontSize=50&fontColor=FFFFFF" width="100%" />
 <img src="https://komarev.com/ghpvc/?username=alilighto" alt="Profile view" />
 
 #### 📕 About me
