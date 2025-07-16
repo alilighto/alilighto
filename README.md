@@ -1,6 +1,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=170&section=header&text=Hi+there,+Im+Mohammed+Ouchkhi!&fontSize=40&fontColor=FFFFFF" width="100%" />
 <img src="https://komarev.com/ghpvc/?username=alilighto" alt="Profile view" />
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=welcome+;Im+a+zone01edu+student;Always+learning+something+new;Learning+through+peer-to-peer+education" alt="Typing SVG" /></a>
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Adobe+Garamond&weight=300&size=25&duration=4000&pause=600&width=435&lines=welcome+;Im+a+zone01edu+student;Always+learning+something+new;Learning+through+peer-to-peer+education" alt="Typing SVG" /></a>
+</p>
+
 #### 📕 About me
 
 - 😅 I'm a developer, and a contributor!
